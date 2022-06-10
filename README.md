@@ -5,9 +5,12 @@ UX design Flutter 3
 
 ## Getting Started
 
-![](./app/assets/images/screen_1.png=250x550)
-
-![](./app/assets/images/screen_2.png=250x550)
+<table>
+    <tr>
+        <td> <img src='./app/assets/images/screen_1.png'></td>
+        <td> <img src='./app/assets/images/screen_2.png'> </td>
+    </tr>
+</table>
 
 A few resources to get you started if this is your first Flutter project:
 
