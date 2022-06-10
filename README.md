@@ -5,8 +5,9 @@ UX design Flutter 3
 
 ## Getting Started
 
-![](./app/assets/images/screen_1.png  =250x550) 
-![](./app/assets/images/screen_2.png  =250x550) 
+![](./app/assets/images/screen_1.png=250x550)
+
+![](./app/assets/images/screen_2.png=250x550)
 
 A few resources to get you started if this is your first Flutter project:
 
